@@ -1,0 +1,10 @@
+[33m1440a23[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to 1440a23a1a3bd885b36170848b998459b9d490b0
+[33m59fd878[m HEAD@{1}: commit: Cleaning up code 2
+[33mceb7827[m HEAD@{2}: commit: Cleaning up code
+[33mc6aabf9[m HEAD@{3}: commit: Bracket 7) complete
+[33m6e8ab0c[m HEAD@{4}: commit: Bracket 6) Complete
+[33m01b469f[m HEAD@{5}: commit: Bracket 5) Line chart is now live, has labelled ticks and is adaptable in x & y axis
+[33m204f6b9[m HEAD@{6}: commit: Bracket 4) Added the feature to draw a line chart to represent speed vs distance after user stops tracking
+[33m1440a23[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{7}: commit: Bracket 3) Average speed is calculated. Speed for each km and other bracket requirements added
+[33mc86581d[m HEAD@{8}: commit: Bracket 2) Enabled location listener access as well as request for permissions, enabled recording and saving location data for a run in an automatically generated file with date in its filename after the user has stopped tracking.
+[33mbc47d68[m HEAD@{9}: commit (initial): Bracket 1) Created basic shell of application and customview, added chronometer for tracking time.
